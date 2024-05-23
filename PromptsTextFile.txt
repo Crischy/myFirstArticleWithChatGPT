@@ -1,0 +1,39 @@
+
+-- Prompt Principal:
+
+    Aja como um experiente escritor de artigos de desenvolvimento web e escreva um artigo respeitando as seguintes regras abaixo
+
+    {REGRAS}
+    > Use no máximo 5 linhas por blocos de texto
+    > Aborde de maneira informal e como se fosse para um adolescente de 12 anos
+    > Pontos à abordar:
+        - Porquê toda gente precisa aprender o básico de Design?
+        - Vantagens de aprender sobre Design
+        - Como o Design ajuda no processo de aprendizagem das pessoas?
+        - Impacto do Design na vida profissional de um programador
+        - Impacto do Design na vida real
+        - Como aprender sobre Design?
+        - Algumas fontes de conteúdo básico e essencial de Design
+        - Algumas fontes de bases de Design em Português
+    > Faça um Call To Action no final do artigo
+    > Indique 5 hashtags relevantes para o artigo
+
+
+-- Prompts Secundários - três (3):
+
+  1 - Crie uma introdução para o artigo com base nas intruções passadas anteriormente.
+
+  2 - Como uma pessoa que aprendeu sobre Design, o básico, tem mais facilidade no seu processo de aprendizagem em outras áreas?
+
+  3 - Sugira ideias de imagens relevantes para cada um dos pontos citados anteriormente.
+
+
+
+
+
+
+
+
+
+
+
